@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5Ik73OHB6YSVwZ3myrBUGp+XAs5ryH0ml4yqxwriG08=",
+  "Source": "ZooHelp",
+  "BasePath": "_content/ZooHelp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZooHelp\\wwwroot",
+      "Source": "ZooHelp",
+      "ContentRoot": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\",
+      "BasePath": "_content/ZooHelp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

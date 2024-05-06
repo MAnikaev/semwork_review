@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\add_announcements.html",
+      "PackagePath": "staticwebassets\\add_announcements.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\announcement_card.html",
+      "PackagePath": "staticwebassets\\announcement_card.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\announcements.html",
+      "PackagePath": "staticwebassets\\announcements.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\auth.html",
+      "PackagePath": "staticwebassets\\auth.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\change_profile.html",
+      "PackagePath": "staticwebassets\\change_profile.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\chats.html",
+      "PackagePath": "staticwebassets\\chats.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\concrete_chat.html",
+      "PackagePath": "staticwebassets\\concrete_chat.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\add_announcements.css",
+      "PackagePath": "staticwebassets\\css\\add_announcements.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\announcements.css",
+      "PackagePath": "staticwebassets\\css\\announcements.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\auth.css",
+      "PackagePath": "staticwebassets\\css\\auth.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\change_profile.css",
+      "PackagePath": "staticwebassets\\css\\change_profile.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\chats.css",
+      "PackagePath": "staticwebassets\\css\\chats.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\my_announcements.css",
+      "PackagePath": "staticwebassets\\css\\my_announcements.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\detail.html",
+      "PackagePath": "staticwebassets\\detail.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\js\\auth.js",
+      "PackagePath": "staticwebassets\\js\\auth.js"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\js\\registration.js",
+      "PackagePath": "staticwebassets\\js\\registration.js"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\my_announcements.html",
+      "PackagePath": "staticwebassets\\my_announcements.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\registration.html",
+      "PackagePath": "staticwebassets\\registration.html"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\www\\main_logo.png",
+      "PackagePath": "staticwebassets\\www\\main_logo.png"
+    },
+    {
+      "Id": "D:\\Homework\\InfCurrent\\sem-work-asp-MAnikaev\\ZooHelp\\wwwroot\\www\\profile_placeholder.png",
+      "PackagePath": "staticwebassets\\www\\profile_placeholder.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ZooHelp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ZooHelp.props",
+      "PackagePath": "build\\ZooHelp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ZooHelp.props",
+      "PackagePath": "buildMultiTargeting\\ZooHelp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ZooHelp.props",
+      "PackagePath": "buildTransitive\\ZooHelp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
